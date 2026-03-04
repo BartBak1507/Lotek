@@ -50,6 +50,12 @@ Projekt nie wymaga instalacji ani dodatkowych narzędzi.
 
 ---
 
+## 📷 Podgląd aplikacji
+
+![Lotek](screenshot.png)
+
+---
+
 ## 🧠 Jak działa aplikacja?
 
 1. Użytkownik wpisuje 6 liczb w formularzu.
@@ -68,6 +74,7 @@ Lotto-6-z-49-JavaScript/
 ├── index.html
 ├── script.js
 ├── styl.css
+├── screenshot.png
 └── README.md
 
 ---
