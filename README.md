@@ -67,7 +67,7 @@ Projekt nie wymaga instalacji ani dodatkowych narzędzi.
 
 ## 📂 Struktura projektu
 
-Lotto-6-z-49-JavaScript/
+Lotek/
 │
 ├── index.html
 ├── script.js
