@@ -1,4 +1,4 @@
-# 🎲 Lotto – Losowanie 6 z 49
+# 🎲 Lotek
 
 Interaktywna aplikacja webowa symulująca losowanie 6 liczb z zakresu 1–49.  
 Aplikacja działa w przeglądarce i umożliwia sprawdzenie ilości trafień na podstawie wprowadzonych liczb.
