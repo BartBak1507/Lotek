@@ -40,9 +40,7 @@ Użytkownik może wpisać 6 liczb z zakresu 1–49, a aplikacja automatycznie lo
 
 ## ▶️ Jak uruchomić projekt
 
-1. Sklonuj repozytorium:
-
-git clone https://github.com/BartBak1507/Lotto-6-z-49-JavaScript.git
+1. Sklonuj repozytorium.
 
 2. Otwórz plik `index.html` w przeglądarce.
 
