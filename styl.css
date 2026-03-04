@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+#result {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.resultTable {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.result {
+    border: 2px solid #0d6efd;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #e7f1ff;
+}
